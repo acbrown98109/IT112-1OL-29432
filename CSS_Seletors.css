@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+ol {
+    font-size: 18px;
+    line-height: 1.6;
+    padding-left: 20px;
+}
+
+.red {
+    color: red;
+}
+.maize {
+    color: #FBEC5D;
+}
+.crimson {
+    color: crimson;
+}
+.orange {
+    color: #CC5500;
+}
+
+.green {
+    color: green;
+}
+
+button {
+    font-weight: bold;
+    color: white;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.agree {
+    background-color: green;
+    border: 2px solid black;
+}
+
+.disagree {
+    background-color: red;
+    border: 2px solid black;
+}

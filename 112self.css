@@ -1,0 +1,12 @@
+h1 {color: green
+}
+h2 {color: purple
+}
+p {color: pink;
+   background-color: olive
+}
+button {color: white;
+        background-color: blue;
+        border: 2px solid silver;
+        box-shadow: 0 2px 2px 0 black
+}
